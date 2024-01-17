@@ -56,6 +56,10 @@ class ChatAdapter(val activity: Activity, val list: ArrayList<ChatMessage>, val 
 
     inner class OutGoingViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val binding = ItemOutgoingMessageBinding.bind(itemView)
+
+
+
+
     }
 
 }
