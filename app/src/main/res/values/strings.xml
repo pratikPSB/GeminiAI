@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeminiAI</string>
+    <string name="txt_home">Home</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_new_chat">New chat</string>
+    <string name="profile_image_content_description">Profile Image</string>
+    <string name="ask_anything_hint">Ask me anything…</string>
+    <string name="send_btn_default">Send</string>
+</resources>
